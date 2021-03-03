@@ -1,9 +1,7 @@
 # NLP-SpaCy-Python
 
-## Instalação Biblioteca
+## Instalação Bibliotecas
 
 pip install spacy --upgrade
 
-import spacy
-
-spacy .__version__
+python -m spacy download pt
