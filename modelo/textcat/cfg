@@ -1,7 +1,7 @@
 {
   "labels":[
-    "ALEGRIA",
-    "MEDO"
+    "POSITIVO",
+    "NEGATIVO"
   ],
   "pretrained_vectors":null
 }
